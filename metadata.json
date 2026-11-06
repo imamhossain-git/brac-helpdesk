@@ -1,0 +1,6 @@
+{
+  "name": "BRAC Bangladesh IT Service Portal & Helpdesk",
+  "description": "IT support portal for BRAC Bangladesh featuring searchable knowledge base, ticket submission and tracking, email notification logs, SLA analytics, cloud sync backups, and AI chat for donor and volunteer support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
